@@ -6,7 +6,7 @@
   * `Facade`
  
 * Integração com a API **Via Cep** Usando `OpenFeign`.
-[API ViaCEP](https://viacep.com.br/).
+  * [API ViaCEP](https://viacep.com.br/).
 
 - Utilizando **`@Getter and @Setters`** da libraty `lombok`.
 

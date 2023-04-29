@@ -1,4 +1,4 @@
-## Exercício proposto em :coffee: Java :coffee: para o bootcamp Orange Tech + na Dio.
+## Exercício proposto em :coffee: Java :coffee:
 
 - Praticando padrões de projetos:
   * `Sigleton`
